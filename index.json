@@ -1,0 +1,9 @@
+{
+  "version": "3.0.0",
+  "resources": [
+    {
+      "@id": "https://esperimental.github.io/e7c2/v3-flatcontainer/",
+      "@type": "PackageBaseAddress/3.0.0"
+    }
+  ]
+}
